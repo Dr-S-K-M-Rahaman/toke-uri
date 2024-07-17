@@ -1,0 +1,12 @@
+{
+  "name": "ImpactX Co-Founder 22",
+  "description": "An exclusive ImpactX Co-Founder",
+  "image": "https://toke-uri.vercel.app/impactxnft/cofounder/foundernft.png",
+  "animation_url": "https://toke-uri.vercel.app/impactxnft/cofounder/22.mp4",
+  "attributes": [
+    {
+      "trait_type": "Membership Level",
+      "value": "Co-Founder"
+    }
+  ]
+}
