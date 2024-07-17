@@ -1,0 +1,40 @@
+{
+  "name": "ImpactX Co-Founder",
+  "description": "An exclusive Co-Founder NFT granting access to various ImpactX benefits",
+  "image": "https://spl-toke-uri.vercel.app/aiultimate.mp4",
+  "animation_url": "https://spl-toke-uri.vercel.app/aiultimate.mp4",
+  "attributes": [
+    {
+      "trait_type": "Membership Level",
+      "value": "AI ULTIMATE PRO"
+    },
+    {
+      "trait_type": "Academy Access",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "IMTX Airdrop",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Digital Asset Portfolio",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Real Estate Investment Trust",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Metaverse Access",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "ImpactX Esports NFT",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Precious Metals",
+      "value": "Yes"
+    }
+  ]
+}
