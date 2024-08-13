@@ -1,9 +1,14 @@
 {
     "name": "ARISTOCATS",
     "symbol": "ARISTO",
-    "description": "ARISTO is the official token of aristo cat.",
     "image": "https://toke-uri.vercel.app/aristo-logo.jpg",
-    "telegram": "https://t.me/aristoportal",
-    "twitter": "https://x.com/aristocatsorg",
-    "website": "https://aristocats.org"
-  }
+    "description": "ARISTO is the official token of aristo cats.",
+    "extensions": {
+        "twitter": "https://x.com/aristocatsorg",
+        "telegram": "https://t.me/aristoportal"
+    },
+    "tags": [
+        "Meme",
+        "Solana"
+    ]
+}
