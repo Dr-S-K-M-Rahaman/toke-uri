@@ -1,0 +1,17 @@
+{
+    "name": "VeroxAi",
+    "symbol": "VEROX",
+    "image": "https://toke-uri.vercel.app/verox-logo.png",
+    "description": "Best meme token ever.",
+    "extensions": {
+      "twitter": "https://twitter.com/Verox_AICrypto",
+      "telegram": "https://t.me/veroxgroup"
+    },
+    "tags": [
+      "Meme",
+      "Solana"
+    ],
+    "creator": {
+      "name": "https://www.veroxai.com"
+    }
+  }
