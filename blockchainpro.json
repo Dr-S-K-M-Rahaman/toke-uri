@@ -6,17 +6,25 @@
     {
       "trait_type": "Membership Level",
       "value": "BLOCKCHAIN PRO"
-    },
+    }
     {
-      "trait_type": "Academy Access",
+      "trait_type": "2 NRG Active Node",
       "value": "Yes"
     },
     {
-      "trait_type": "IMTX Airdrop",
+      "trait_type": "$200 of NRG tokens",
       "value": "Yes"
     },
     {
-      "trait_type": "Digital Asset Portfolio",
+      "trait_type": "Access to ImpactX Dapps",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Access to Networking Events",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Access to Academy",
       "value": "Yes"
     }
   ]
