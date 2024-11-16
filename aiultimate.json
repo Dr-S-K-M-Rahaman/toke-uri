@@ -1,38 +1,30 @@
 {
   "name": "ImpactX Membership NFT",
   "description": "An exclusive membership NFT granting access to various ImpactX benefits",
-  "image": "https://spl-toke-uri.vercel.app/aiultimate.mp4",
+  "image": "https://toke-uri.vercel.app/aiultimate.mp4",
   "attributes": [
     {
       "trait_type": "Membership Level",
       "value": "AI ULTIMATE PRO"
     },
     {
-      "trait_type": "Academy Access",
+      "trait_type": "1 NRG Active Node",
       "value": "Yes"
     },
     {
-      "trait_type": "IMTX Airdrop",
+      "trait_type": "$100 of NRG tokens",
       "value": "Yes"
     },
     {
-      "trait_type": "Digital Asset Portfolio",
+      "trait_type": "Access to ImpactX Dapps",
       "value": "Yes"
     },
     {
-      "trait_type": "Real Estate Investment Trust",
+      "trait_type": "Access to Networking Events",
       "value": "Yes"
     },
     {
-      "trait_type": "Metaverse Access",
-      "value": "Yes"
-    },
-    {
-      "trait_type": "ImpactX Esports NFT",
-      "value": "Yes"
-    },
-    {
-      "trait_type": "Precious Metals",
+      "trait_type": "Access to Academy",
       "value": "Yes"
     }
   ]
